@@ -3,7 +3,7 @@ This repository stores the codes for Data Analytics and Visualization with Pytho
 
 The codes includes the exploration of 3 Python libraries-Numpy, pandas, and Matplotlib
 
-All the codes are written by myself based on my learning of the online course. 
+All the codes and notes are written by myself based on my learning of the online course. 
 
 Special thanks to bilibili.com and atguigu.com for uploading the course
 
