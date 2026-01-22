@@ -1,7 +1,7 @@
 # Data-Analytics-and-Visualization-With-Python
 This repository stores the codes for Data Analytics and Visualization with Python 
 
-The codes includes the exploration of 3 Python libraries-Numpy, pandas, and Matplotlib
+The codes includes the exploration of 4 Python libraries-Numpy, pandas, Matplotlib, and Seaborn
 
 All the codes and notes are written by myself based on my learning of the online course. 
 
